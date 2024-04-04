@@ -1,0 +1,47 @@
+.profile-img{
+height: 200px;
+width: 1530px;
+background-image: url('https://www.sup-internationalmag.com/wp-content/uploads/2019/08/01-KohChang-1500px-768x512.jpg');
+margin: 0px;
+margin-bottom: 20px;
+
+}
+.profile{
+    height: 100%;
+    width: 1500px;
+    margin: 0;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+}
+.bio{
+    margin-top: 70px;
+    height: 50px;
+    width: 750px;
+    background-color:#e6e6e6;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 5px;
+     margin-left: 400px;
+    /* margin-right: 300px; */ 
+    color:black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.details{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    background-color: #fff;
+    height: 300px;
+    width: 50%;
+    padding-top: 30px;
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius: 4px;
+    box-shadow: 4px 4px 9px 4px #ddd;
+    margin: '4em';
+    padding: '1em';
+}
